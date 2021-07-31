@@ -6,7 +6,7 @@
         "rpg",
         "github"
     ],
-    "repository": "https://github.com/Stuk/foundry-heroku",
+    "repository": "https://github.com/Zooxle/foundry-heroku",
     "success_url": "/",
     "env": {
         "ADMIN_KEY": {
